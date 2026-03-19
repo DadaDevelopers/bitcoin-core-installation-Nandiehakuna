@@ -1,6 +1,6 @@
 # Bitcoin Core Installation Assignment
 
-**Student:** Nandiehakuna  
+**Student:** kelly gakii a.k.a kels
 **Cohort:** DadaDevelopers Cohort 4  
 **Repository:** bitcoin-core-installation-Nandiehakuna  
 **Bitcoin Core Version:** v28.0  
